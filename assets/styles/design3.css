@@ -1,0 +1,161 @@
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(201, 38, 38);
+    border-bottom: 3px solid rgb(244, 244, 53);
+}
+#logo img{
+    width: 6em;
+    margin-bottom: 50px;
+    background: rgb(201, 38, 38);
+    border-radius: 35%;
+    
+}
+header{
+    height: 300px;
+    background-color: rgb(201, 38, 38);
+    background: url('../img/design1_image2.jpg');
+}
+h2{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    border: dashed 3px black;
+    position: sticky;
+    top: 30px;
+    font-size: 22px;
+}
+a:hover{
+    background-color: rgba(255, 211, 14, 0.925);
+}
+.img1 img{
+    width: 15em;
+    border-radius: 50%;
+   
+    margin-left: 40%;
+}
+h3 {
+    background-color: rgb(85, 151, 124);
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+figure #imagen{
+    border-radius: 50%;
+    width: 30%;
+    position: relative;
+    margin-top: 30px;
+    left: 35%;
+}
+.container li{
+   font-size: 16px;
+   text-align: left;
+   margin-right: 300px;
+   padding: 5px;
+}
+#sub_titulo_rules{
+    background-color:rgb(244, 244, 53);
+}
+dd{
+    font-size: 16px;
+   text-align: left; 
+   margin-right: 300px;
+}
+th{
+    background:rgb(244, 244, 53) ;
+}
+td{
+    background:rgb(212, 207, 203) ;
+    padding: 10px;
+}
+.tabla{
+    margin-left: 35%;
+}
+.container2{
+  
+   left: 400px;
+ border:2px dashed black;
+  
+   
+    
+}
+.container p{
+    display: block;
+    font-size: 18px;
+    padding: 3px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap:10px;    
+    background: rgb(190, 218, 209);
+    padding: 20px;
+    width: 700px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+}
+.street_adress{
+    width: 75%;
+    padding: 3px;
+    border-radius: 2px;
+    margin-bottom: 16px;
+    border: 1px solid gray;
+    font-family: 'calibri';
+    font-size: 18px;
+    border-radius: 6px;
+    }
+.controls{
+    width: 20%;
+    padding: 3px;
+    border-radius: 6px;
+    margin: 3px 3px 16px 4px;
+    /*
+    margin-bottom: 16px;*/
+    
+    border: 1px solid gray;
+    font-family: 'calibri';
+    font-size: 18px;
+
+}
+#closets{
+    position: absolute;
+    top:852px;
+    font-size: 15px;
+}
+.date{
+    margin-bottom: 10px;
+}
+.button{
+    display: flex;
+    justify-content: start;
+    padding: 5px;
+   background-color: rgb(255, 255, 0);
+   border-radius: 3px;
+   border: 2px solid white;
+    
+}
+fieldset{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+.mapa iframe{
+    display: inline;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 95vw;
+    
+}
+.mapa p{
+   font-size: 22px;
+   
+    
+}
